@@ -21,6 +21,9 @@ Plugin 'suan/vim-instant-markdown'
 Plugin 'nelstrom/vim-markdown-preview'
 Plugin 'tpope/vim-surround'
 
+"latex
+Plugin 'vim-latex/vim-latex'
+
 "tree undo
 Plugin 'sjl/gundo.vim'
 
