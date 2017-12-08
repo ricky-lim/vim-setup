@@ -33,6 +33,7 @@ set noswapfile
 set nu
 set clipboard=unnamed
 set colorcolumn=80
+set mouse=a
 
 "permanent undo
 set undofile
