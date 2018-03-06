@@ -24,6 +24,9 @@ Plugin 'tpope/vim-surround'
 "tree undo
 Plugin 'sjl/gundo.vim'
 
+"sql
+Plugin 'shmup/vim-sql-syntax'
+
 call vundle#end()
 
 let NERDTreeIgnore=['\.pyc$', '\~$'] "ignore files in NERDTree
@@ -79,5 +82,7 @@ nnoremap <space> za
 autocmd FileType javascript setlocal shiftwidth=2 tabstop=2
 
 "bash 
-autocmd FileType javascript setlocal shiftwidth=4 tabstop=4
+autocmd FileType sh setlocal shiftwidth=4 tabstop=4
+
+autocmd FileType sh setlocal shiftwidth=2 tabstop=2
 
