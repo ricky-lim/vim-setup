@@ -85,5 +85,5 @@ autocmd FileType javascript setlocal shiftwidth=2 tabstop=2
 "bash 
 autocmd FileType sh setlocal shiftwidth=4 tabstop=4
 
-autocmd FileType sh setlocal shiftwidth=2 tabstop=2
+autocmd FileType sql setlocal shiftwidth=2 tabstop=2
 
