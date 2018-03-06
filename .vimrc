@@ -36,6 +36,7 @@ set noswapfile
 set nu
 set clipboard=unnamed
 set colorcolumn=80
+set mouse=a
 highlight ColorColumn ctermbg=7 guibg=Black
 
 "permanent undo
