@@ -27,6 +27,9 @@ Plugin 'sjl/gundo.vim'
 "sql
 Plugin 'shmup/vim-sql-syntax'
 
+"comment
+Plugin 'scrooloose/nerdcommenter'
+
 call vundle#end()
 
 let NERDTreeIgnore=['\.pyc$', '\~$'] "ignore files in NERDTree
